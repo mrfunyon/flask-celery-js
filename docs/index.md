@@ -94,7 +94,7 @@ git clone git@https://github.com/mrfunyon/flask-celery-js.git
 Then we need to build and start our docker instance.
 
 ```bash
-docker-compose up --buile
+docker-compose up --build
 ```
 
 Now the example application is available at http://localhost:8000
